@@ -1,5 +1,5 @@
-# Beam-Deflection-Analysis
-Flask App to calculate beam deflections 
+# Beam Deflection Analysis
+Flask App to calculate basic beam deflections using linear algebra
 
 # Engineering Background
 
